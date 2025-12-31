@@ -76,16 +76,22 @@ This project answers several critical business questions:
 
 ## 📂 Repository Structure
 ── data/
+
 │ ├── raw_data.csv
+
 │ └── processed_data.csv
 │
+
 ├── notebooks/
+
 │ └── Customer_Shopping_Behavior_Analysis.ipynb
 │
 ├── sql_queries/
+
 │ └── customer_behavior_queries.sql
 │
 ├── dashboard/
+
 │ └── customer_behavior_dashboard.pbix
 │
 └── README.md
